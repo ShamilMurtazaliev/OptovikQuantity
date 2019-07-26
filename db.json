@@ -21,7 +21,7 @@
         "presence": true,
         "isEstimatedPrice": true
       },
-      "quantity": 0
+      "quantity": 2
     },
      {
      "product":  {
@@ -33,7 +33,7 @@
         "presence": true,
         "isEstimatedPrice": false
       },
-      "quantity": 0
+      "quantity": 6
     },
     {
      "product":  {
