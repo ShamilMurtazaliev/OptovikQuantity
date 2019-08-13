@@ -1,4 +1,7 @@
-[ 
+{
+     "priceDelivery": "4570",
+
+     "item": [ 
      {
      "product":  {
         "id": 1,
@@ -36,3 +39,4 @@
       "quantity": 7
     }
 ]
+}
